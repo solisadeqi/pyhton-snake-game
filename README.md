@@ -5,6 +5,7 @@ This is just sample, not optimised, you can customize it.
 
 
 
+
 how to run :  
 1- download repository   
 2- navigate to the snake-game as photo    
